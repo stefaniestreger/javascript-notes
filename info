@@ -7,6 +7,9 @@ Array manipulation (.slice(), .push(), .pop())
 String manipulation (.slice(), .substring(), .toLowerCase(), .toUpperCase())
 Number manipulation (Number.parseInt(), Number.isNaN(), Number.parseFloat())
 
+//Vernon's GH files:
+https://github.com/Cheesyburrito30/jsFundamentals
+
 //Websites
 https://www.freecodecamp.org/
 
