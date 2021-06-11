@@ -1,3 +1,15 @@
 // Variables allow computers to store and manipulate data in a dynamic fashion. 
 // They do this by using a "label" to point to the data rather than using the data itself. 
 // Any of the eight data types may be stored in a variable.
+
+
+//It is common to initialize a variable to an initial value in the same line as it is declared.
+var a = 7;
+var myVar = 0;
+
+//When JavaScript variables are declared, they have an initial value of undefined. 
+//If you do a mathematical operation on an undefined variable your result will be NaN which means "Not a Number". 
+//If you concatenate a string with an undefined variable, you will get a literal string of undefined.
+
+//Write variable names in JavaScript in camelCase.
+//In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is capitalized.
