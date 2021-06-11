@@ -13,3 +13,19 @@ var myVar = 0;
 
 //Write variable names in JavaScript in camelCase.
 //In camelCase, multi-word variable names have the first word in lowercase and the first letter of each subsequent word is capitalized.
+
+//Quotes are not the only characters that can be escaped inside a string. 
+//There are two reasons to use escaping characters:
+//To allow you to use characters you may not otherwise be able to type out, such as a carriage return.
+//To allow you to represent multiple quotes in a string without JavaScript misinterpreting what you mean.
+
+Code	Output
+\'	single quote
+\"	double quote
+\\	backslash
+\n	newline
+\r	carriage return
+\t	tab
+\b	word boundary
+\f	form feed
+Note that the backslash itself must be escaped in order to display as a backslash
