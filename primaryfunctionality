@@ -1,0 +1,9 @@
+//Stuff from Vernon about what to study
+
+loops (for, Array.map, Array.foreach)
+if/else statements 
+switch statements
+Object manipulation (prop reassignment, Object.keys, object selectors)
+Array manipulation (.slice(), .push(), .pop())
+String manipulation (.slice(), .substring(), .toLowerCase(), .toUpperCase())
+Number manipulation (Number.parseInt(), Number.isNaN(), Number.parseFloat())
