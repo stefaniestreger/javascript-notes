@@ -85,3 +85,14 @@ ourArray.shift();
 ourArray.unshift("Happy");
 //After the shift, ourArray would have the value ["J", "cat"]. 
 //After the unshift, ourArray would have the value ["Happy", "J", "cat"].
+
+
+function nextInLine(arr, item) { //creates a new function called nextInLine that takes an array and item as arguments
+  arr.push(item); //argument for taking the first variable value and moving it to the end of the array
+  var removed = arr.shift(); //defines new variable called removed that takes the last variable value in the array and moves it to the beginning of the array
+  return removed; //when function is called, reference the variable removed
+}
+var testArr = [1,2,3,4,5]; // global variable for testArr
+console.log("Before: " + JSON.stringify(testArr)); //displays "Before" and shows values in testArr variable
+console.log(nextInLine(testArr, 6)); //calls the function nextInLine, which uses variable testArr and the number 6 for item
+console.log("After: " + JSON.stringify(testArr)); //displays "After" and shows values in testArr variable
