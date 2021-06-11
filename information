@@ -1,5 +1,4 @@
-//Stuff from Vernon about what to study
-
+//Stuff from Vernon about what to master
 loops (for, Array.map, Array.foreach)
 if/else statements 
 switch statements
@@ -7,3 +6,9 @@ Object manipulation (prop reassignment, Object.keys, object selectors)
 Array manipulation (.slice(), .push(), .pop())
 String manipulation (.slice(), .substring(), .toLowerCase(), .toUpperCase())
 Number manipulation (Number.parseInt(), Number.isNaN(), Number.parseFloat())
+
+//Websites
+https://www.freecodecamp.org/
+
+//Developer Docs
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring
