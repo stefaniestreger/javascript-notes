@@ -1,11 +1,28 @@
 //Basic challenges
-log a pyramid of "#" to the console (you've already done this)
-create a function to add any two numbers together
-create a function to find the average value of an array of numbers
-create a function to check if a number is odd 
-write a loop 0-100 that only prints [odd/even] numbers (pick odd or even) 
-create a function to reverse a string
-create a function to check if two strings are the same
-create a function that returns the longest string in an array (or the highest number)
-write a loop from 0-100 that stops when it hits 25 (end the loop early)
-write a loop from 0-100 and on every multiple of 3 log "fizz", every multiple of 5 write "buzz" and on multiples of both write "fizzbuzz"
+//log a pyramid of "#" to the console
+
+//create a function to add any two numbers together
+
+
+//create a function to find the average value of an array of numbers
+
+
+//create a function to check if a number is odd 
+
+
+//write a loop 0-100 that only prints [odd/even] numbers (pick odd or even) 
+
+
+//create a function to reverse a string
+
+
+//create a function to check if two strings are the same
+
+
+//create a function that returns the longest string in an array (or the highest number)
+
+
+//write a loop from 0-100 that stops when it hits 25 (end the loop early)
+
+
+//write a loop from 0-100 and on every multiple of 3 log "fizz", every multiple of 5 write "buzz" and on multiples of both write "fizzbuzz"
