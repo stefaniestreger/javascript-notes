@@ -4,6 +4,10 @@ for (let line = "#"; line.length < 8; line += "#")
 console.log(line)
 
 //create a function to add any two numbers together
+function addNumber(num1, num2) {
+ return = num1 + num2;
+ }
+var answer = addNumber(3, 5);
 
 
 //create a function to find the average value of an array of numbers
