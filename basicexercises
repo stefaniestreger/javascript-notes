@@ -1,14 +1,4 @@
-//Basic challenges
 //log a pyramid of "#" to the console
-for (let line = "#"; line.length < 8; line += "#")
-console.log(line)
-
-//create a function to add any two numbers together
-function addTwo(num1, num2); { //defines what values the function should take
-   let answer = num1 + num2; //defines variable used inside of function - add nums together
-   return answer; //defines what happens when variable is called
-}
-
 
 //create a function to find the average value of an array of numbers
 
@@ -31,16 +21,9 @@ function addTwo(num1, num2); { //defines what values the function should take
 //write a loop from 0-100 that stops when it hits 25 (end the loop early)
 
 
-//write a loop from 0-100 and on every multiple of 3 log "fizz", every multiple of 5 write "buzz" and on multiples of both write "fizzbuzz"
-
-
-//modify this program to print "FizzBuzz" for numbers divisible by both 3 and 5 (and still print "Fizz" or "Buzz" when divisible by either 3 or 5)
-
-
-/*write a program that creates a string that represents an 8x8 grid, using new-line characters to separate lines
-at each position of the grid, there is either a space or a # character
-the characters should form a chessboard
-define binding size of 8, and change the program so that it works for any size, outputting a grid of the given width and height
+// write a program that creates a string that represents an 8x8 grid, using new-line characters to separate lines
+// at each position of the grid, there is either a space or a # character. the characters should form a chessboard
+// define binding size of 8, and change the program so that it works for any size, outputting a grid of the given width and height
 # # # #
  # # # #
- */
+ //
